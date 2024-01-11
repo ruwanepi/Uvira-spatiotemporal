@@ -1,3 +1,5 @@
+# This repository contains the code and data to replicate the analyses in the manuscript, 'Spatiotemporal modelling of cholera and implications for its control, Uvira, Democratic Republic of the Congo'
+
 # Summary of analysis scripts
 # Author: R Ratnayake, 2023
 
